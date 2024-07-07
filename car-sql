@@ -3,7 +3,7 @@
 ## Introduction
 
 A manager of a used car agency would like to create a system to facilitate his work and assist all agents in the company. Currently, he uses spreadsheets to collect and save all the data about the cars in his agency. 
-The idea is to create an online system to help him search for cars and various attributes. Your role is to design and implement the relational database for his agency (The implementation of the software is not required).
+The idea is to create an online system to help him search for cars and various attributes. Your role is to design and implement the relational database for his agency.
 
 ## Data Description
 
