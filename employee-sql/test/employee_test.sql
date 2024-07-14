@@ -1,3 +1,12 @@
+/*
+**SQL Queries**:
+     1. Which departments have the most employees.
+     2. List the top 3 highest paid employees in each department. 
+     3. calculate the total salary expenditure of each department.
+     4. find the employees who earn more than average salary in HR department.
+     5. Find department where the average salary is higher than overall company average salary?
+
+*/
 # Answers to the question 
 --1. Which departments have the most employees.
 
@@ -38,7 +47,7 @@ SELECT AVG(s.salary)
 FROM employees e2
 JOIN department d2 ON d2.department_id = e2.department_id
 JOIN salaries s ON s2.employee_id = e2.id
-WHERE d2.department_name = 'HR
+WHERE d2.department_name = 'HR'
 );
 
 --5. Find department where the average salary is higher than overall company average salary?
@@ -53,8 +62,3 @@ HAVING AVG(s.salary) >
 SELECT AVG(s.salary)
 FROM salaries 
 );
-
-
-
-
---------------END----------------
