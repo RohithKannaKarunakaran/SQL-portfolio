@@ -1,4 +1,4 @@
---Create table 
+--Create table and add keys
 
 CREATE TABLE dealer (
 dealer_id INT , 
