@@ -6,7 +6,7 @@ A manager of a used car agency would like to create a system to facilitate his w
 The idea is to create an online system to help him search for cars and various attributes. Your role is to design and implement the relational database for his agency.
 
 Data Description
-The data already stored in the Excel file contains information about used cars that have been sold or not by the agency. The dataset includes as car.csv:
+The data already stored in the Excel file contains information about used cars that have been sold or not by the agency. The dataset includes as **car.csv under docs**:
 
 Project Goal is to design and implement the database which can answer the following query:
 
