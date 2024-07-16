@@ -1,1 +1,1 @@
-# SQL-portfolio
+# SQL-portfolio projects
